@@ -70,9 +70,10 @@ background-color: #557571
 
 ### Introduction to Git and GitHub
 
-<br><br><br><br><br><br>
-.h4[Javed Ali]
+<br><br><br>
+.h4[John Wise]
 
+[slides from Javed Ali (UCF) // Alice Lépissier (Brown)]
 
 Professor and CRA Director
 
@@ -80,28 +81,8 @@ School of Physics and Center of Relativistic Astrophysics
 
 Georgia Institute of Technology
 
-<br><br>
+<br>
 .h5[(`r format(Sys.Date(), format='%d %B %Y')`)]
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-.pull-right[
-<br><br><br>
-.footnote[Slides:
-<a href="https://tinyurl.com/intro-git-slides"><i class="fa fa-github fa-fw"></i>&nbsp; https://tinyurl.com/intro-git-slides</a>
-<!-- (adapted from Alice Lépissier's slides) -->
-]
-]
-
-
-
-
 
 
 ---
@@ -683,7 +664,7 @@ background-color: #557571
 
 .h4[.accent[<i class="fa fa-github fa-fw"></i>]<a href="https://github.com/jwise77/git-tutorial">.accent[&nbsp; jwise77/git-tutorial]</a>]<br>
 
-.h4[.accent[<i class="fa fa-envelope"></i>]<a href="mailto:javedali@knights.ucf.edu">.accent[&nbsp;&nbsp;javedali@knights.ucf.edu]</a>]
+.h4[.accent[<i class="fa fa-envelope"></i>]<a href="mailto:jwise@physics.gatech.edu">.accent[&nbsp;&nbsp;jwise@physics.gatech.edu]</a>]
 
 <br>
 
@@ -692,9 +673,6 @@ background-color: #557571
 ---
 name: goodbye
 class: pink, middle, center
-
-
-<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/15319503?v=4" width="200px"/>
 
 # Thank you!
 
@@ -717,7 +695,6 @@ class: pink, middle, center
    meta_social(
      title = "",
      url = "https://cosmo.gatech.edu/",
-     image = "https://www.javedali.net/author/avatar_hufffe226e957f1b2290d587dc7c95d8a4_871284_270x270_fill_lanczos_center_2.PNG",
      image_alt = "Vintage valentine",
      og_type = "website",
      og_author = "John Wise",
