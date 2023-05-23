@@ -428,7 +428,15 @@ There are two ways to work with GitHub projects.
   </video>
 </div>
 
+---
+# Using Markdown
 
+.h4[Markdown is a transparent syntax that nicely formats text. For example,]
+  - **Bold** and *italic* can be specified with asterisks
+  - Lists can be shown just by using numbers or dashes
+  - Headers are specified with `#` at the beginning
+
+And several other options. See [this link](https://www.markdownguide.org/cheat-sheet/) for a cheat sheet.
 
 ---
 class: inverse, middle, center
